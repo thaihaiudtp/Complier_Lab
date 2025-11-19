@@ -68,3 +68,5 @@ coverage/
 # Misc
 tags
 cscope.out
+
+unit_test_scanner
