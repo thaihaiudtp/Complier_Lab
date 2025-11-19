@@ -1,0 +1,70 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+/build/
+bin/
+out/
+dist/
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+a.out
+core
+*.d
+
+# C/C++/CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile~
+cmake_install.cmake
+*.gcno
+*.gcda
+*.gcov
+*.gch
+*.pch
+
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.venv
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Testing / Coverage
+coverage/
+.coverage
+.nyc_output/
+
+# Misc
+tags
+cscope.out
